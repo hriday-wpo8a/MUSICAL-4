@@ -15,21 +15,21 @@ function preload(){
   note5Sound = loadSound("note5.mp3");
   note6Sound = loadSound("note6.mp3");
   note7Sound = loadSound("note7.mp3");
-  note1Image  = loadImage("note1.jpg");
-  note2Image  = loadImage("note2.jpg");
-  note3Image  = loadImage("note3.jpg"); 
-  note4Image  = loadImage("note4.jpg");
-  note5Image  = loadImage("note5.jpg");
-  note6Image  = loadImage("note6.jpg");
-  note7Image  = loadImage("note7.jpg");
-  note8Image  = loadImage("note8.jpg");
- note9Image  = loadImage("note9.jpg");
- note10Image  = loadImage("note10.jpg");
-note11Image  = loadImage("note11.jpg");
- note12Image  = loadImage("note12.jpg");
- note13Image  = loadImage("note13.jpg");
- note14Image  = loadImage("note14.jpg");
- note15Image  = loadImage("note15.jpg");
+  note1Image  = loadImage("note1.JPG");
+  note2Image  = loadImage("note2.JPG");
+  note3Image  = loadImage("note3.JPG"); 
+  note4Image  = loadImage("note4.JPG");
+  note5Image  = loadImage("note5.JPG");
+  note6Image  = loadImage("note6.JPG");
+  note7Image  = loadImage("note7.JPG");
+  note8Image  = loadImage("note8.JPG");
+ note9Image  = loadImage("note9.JPG");
+ note10Image  = loadImage("note10.JPG");
+note11Image  = loadImage("note11.JPG");
+ note12Image  = loadImage("note12.JPG");
+ note13Image  = loadImage("note13.JPG");
+ note14Image  = loadImage("note14.JPG");
+ note15Image  = loadImage("note15.JPG");
 }
 
 function setup() {
